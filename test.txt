@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 bbbbbbbbbbbbbbb
+=======
+ccccccccccccccc
+>>>>>>> 2dev
 111111111111
 test
