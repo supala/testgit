@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 jjjjjjjjjjjjjjjjjjjjjjjjjj
+=======
+tttttttttttttttttttttttt
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 mod in 4dev
 mod in master
